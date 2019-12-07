@@ -11,5 +11,5 @@ Use Python to explore data related to bike share systems for three major cities 
 bikeshare.py
 
 ### Credits
-Udacity 
+Udacity.com
 
