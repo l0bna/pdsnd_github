@@ -1,5 +1,5 @@
 ### Date created
-December, 7th 2019 
+7th of December, 2019 
 
 ### Project Title
 US Bikeshare Data 
